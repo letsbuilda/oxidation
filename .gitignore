@@ -1,2 +1,4 @@
 target/
 oxidation/target
+*.md
+license
